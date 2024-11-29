@@ -1,6 +1,6 @@
 <div align="center">
 
-# asdf-xcresults [![Build](https://github.com/Ernest0N/asdf-xcresults/actions/workflows/build.yml/badge.svg)](https://github.com/Ernest0N/asdf-xcresults/actions/workflows/build.yml) [![Lint](https://github.com/Ernest0N/asdf-xcresults/actions/workflows/lint.yml/badge.svg)](https://github.com/Ernest0N/asdf-xcresults/actions/workflows/lint.yml)
+# asdf-xcresults [![Build](https://github.com/Ernest0-Production/asdf-xcresults/actions/workflows/build.yml/badge.svg)](https://github.com/Ernest0-Production/asdf-xcresults/actions/workflows/build.yml) [![Lint](https://github.com/Ernest0-Production/asdf-xcresults/actions/workflows/lint.yml/badge.svg)](https://github.com/Ernest0-Production/asdf-xcresults/actions/workflows/lint.yml)
 
 [xcresults](https://github.com/eroshenkoam/xcresults/blob/main/README.md) plugin for the [asdf version manager](https://asdf-vm.com).
 
@@ -8,6 +8,8 @@
 
 # Contents
 
+- [asdf-xcresults  ](#asdf-xcresults--)
+- [Contents](#contents)
 - [Dependencies](#dependencies)
 - [Install](#install)
 - [Contributing](#contributing)
@@ -27,7 +29,7 @@ Plugin:
 ```shell
 asdf plugin add xcresults
 # or
-asdf plugin add xcresults https://github.com/Ernest0N/asdf-xcresults.git
+asdf plugin add xcresults https://github.com/Ernest0-Production/asdf-xcresults.git
 ```
 
 xcresults:
@@ -53,8 +55,8 @@ install & manage versions.
 
 Contributions of any kind welcome! See the [contributing guide](contributing.md).
 
-[Thanks goes to these contributors](https://github.com/Ernest0N/asdf-xcresults/graphs/contributors)!
+[Thanks goes to these contributors](https://github.com/Ernest0-Production/asdf-xcresults/graphs/contributors)!
 
 # License
 
-See [LICENSE](LICENSE) © [Ernest](https://github.com/Ernest0N/)
+See [LICENSE](LICENSE) © [Ernest](https://github.com/Ernest0-Production/)
